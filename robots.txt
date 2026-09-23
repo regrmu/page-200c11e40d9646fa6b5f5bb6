@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--nutbit-8b1k778h.com/sitemap.xml
